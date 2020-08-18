@@ -13,7 +13,7 @@ Unity 2020.1.x or later. SOArchitecture makes use of Unity's new serialization o
 Use the package manager to install with the URL:
 
 ```
-URL go here
+https://github.com/qhenshaw/SOArchitecture.git?path=/Packages/SOArchitecture
 ```
 
 ## Usage
