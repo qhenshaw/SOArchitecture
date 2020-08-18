@@ -2,7 +2,7 @@
 
 SOArchitecture is a framework for creating project-wide ScriptableObject based variables and events.
 
-Based on the talk by the [Unite talk by Ryan Hipple here](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
+Based on the [Unite talk by Ryan Hipple here](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
 
 ## System Requirements
 
