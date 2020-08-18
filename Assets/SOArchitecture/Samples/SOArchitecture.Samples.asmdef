@@ -1,0 +1,15 @@
+{
+    "name": "Example.PlayerGameObject",
+    "references": [
+        "GUID:a3abac0dee056bd4ea78bf1d2d67fce6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

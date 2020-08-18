@@ -1,0 +1,8 @@
+﻿using UnityEngine;
+using SOArchitecture;
+
+[CreateAssetMenu(menuName = "Event/#SCRIPTNAME#")]
+public class #SCRIPTNAME#Event : GameEvent<#SCRIPTNAME#>
+{
+
+}

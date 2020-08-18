@@ -1,0 +1,8 @@
+﻿using UnityEngine;
+using SOArchitecture;
+
+[CreateAssetMenu(menuName = "Variable/#SCRIPTNAME#")]
+public class #SCRIPTNAME#Variable : GameVariable<#SCRIPTNAME#>
+{
+
+}

@@ -528,3 +528,13 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,unity,rider,visualstudio,visualstudiocode
+
+.idea/.idea.SOArchitecture/.idea/
+
+.idea/.idea.SOArchitecture/
+
+.idea/.idea.SOTools/.idea/
+
+.idea/.idea.SOTools/
+
+.vscode/

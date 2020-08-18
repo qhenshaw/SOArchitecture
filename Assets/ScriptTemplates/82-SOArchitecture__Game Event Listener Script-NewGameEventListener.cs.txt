@@ -1,0 +1,7 @@
+﻿using UnityEngine;
+using SOArchitecture;
+
+public class #SCRIPTNAME#EventListener : GameEventListener<#SCRIPTNAME#>
+{
+
+}

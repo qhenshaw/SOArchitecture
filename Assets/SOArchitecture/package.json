@@ -1,0 +1,15 @@
+{
+  "name": "com.qhenshaw.soarchitecture",
+  "version": "0.0.1",
+  "displayName": "SOArchitecture",
+  "description": "This is a simple scriptable object based event and value system.",
+  "unity": "2020.1",
+  "unityRelease": "1f1",
+  "keywords": [],
+  "author": {
+    "name": "Quin Henshaw",
+    "email": "qhenshaw@gmail.com",
+    "url": "https://github.com/qhenshaw"
+  },
+  "type": "library"
+}
