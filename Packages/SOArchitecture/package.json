@@ -1,6 +1,6 @@
 {
   "name": "com.qhenshaw.soarchitecture",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "displayName": "SOArchitecture",
   "description": "This is a simple scriptable object based event and value system.",
   "unity": "2020.1",
